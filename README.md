@@ -25,15 +25,8 @@ A new Flutter project.
 - Built using SOLID principles and modular architecture (Repository, Service, Controller).
 ## Screenshots
 
-### Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
-
-### Dashboard Screen
-![Dashboard Screen](assets/screenshots/dashboard_screen.png)
-### CompleteOrders
-![CompleteOrders](assets/screenshots/complete_orders.png)
-### Pending Orders
-![Pending Orders](assets/screenshots/pending_order.png)
+### Frame
+![Frame](assets/screenshots/frame.png)
 ### Log
 ![log](assets/screenshots/log.png)
 ## Architecture
