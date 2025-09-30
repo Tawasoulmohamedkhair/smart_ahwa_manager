@@ -26,7 +26,7 @@ A new Flutter project.
 ## Screenshots
 
 ### Frame
-![Frame](assets/screenshots/frame.png)
+![Frame](assets/screenshots/Frame.png)
 ### Log
 ![log](assets/screenshots/log.png)
 ## Architecture
